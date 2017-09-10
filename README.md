@@ -1,5 +1,5 @@
 # tinyWebSpider
-a simple recursively web spider that crawl links only from the html tags such as <a>
+a simple recursively web spider that crawl links only from the html tags such as : a, form
 # Usage
 python spider.py --url https://github.com --name github --execlude e.txt
 # About e.txt file:
